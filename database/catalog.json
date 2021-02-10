@@ -1,0 +1,26 @@
+{
+    "hosting_basic": {
+        "id":1,
+        "name":"Basic Hosting",
+        "cost": {
+          "Monthly": 15.00,
+          "Yearly": 150.00
+        }
+    },
+    "hosting_soho": {
+        "id":2,
+        "name":"SoHo Hosting",
+        "cost": {
+          "Monthly": 30.00,
+          "Yearly": 300.00
+        }
+    },
+    "hosting_enterprise": {
+        "id":4,
+        "name":"Enterprise Hosting",
+        "cost": {
+          "Monthly": 60.00,
+          "Yearly": 600.00
+        }
+    }
+}

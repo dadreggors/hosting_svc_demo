@@ -1,0 +1,83 @@
+{
+    "hosting_basic": {
+        "features": [
+            "Single Dedicated Host",
+            "Control Panel",
+            "Direct host Access via ftp, sftp, and ssh"
+        ],
+        "available_packages": [
+            "PHP",
+            "CakePHP",
+            "Yii",
+            "CodeIgniter",
+            "Symfony",
+            "Laravel",
+            "Python",
+            "Django",
+            "Flask",
+            "WordPress",
+            "MySQL",
+            "MariaDB"
+        ]
+    },
+    "hosting_soho": {
+        "features": [
+            "Single Dedicated Host",
+            "Control Panel",
+            "Direct host Access via ftp, sftp, and ssh"
+        ],
+        "available_packages": [
+            "PHP",
+            "CakePHP",
+            "Yii",
+            "CodeIgniter",
+            "Symfony",
+            "Laravel",
+            "Python",
+            "Django",
+            "Flask",
+            "WordPress",
+            "MySQL",
+            "MariaDB",
+            "PostgreSQL",
+            "Angular",
+            "Ember",
+            "React",
+            "Go"
+        ]
+    },
+    "hosting_enterprise": {
+        "features": [
+            "Single Dedicated Host",
+            "Control Panel",
+            "Direct host Access via ftp, sftp, and ssh"
+        ],
+        "available_packages": [
+            "PHP",
+            "CakePHP",
+            "Yii",
+            "CodeIgniter",
+            "Symfony",
+            "Laravel",
+            "Python",
+            "Django",
+            "Flask",
+            "WordPress",
+            "MySQL",
+            "MariaDB",
+            "PostgreSQL",
+            "Angular",
+            "Ember",
+            "React",
+            "Go",
+            "Redis",
+            "Kafka",
+            "WildFly",
+            "GlassFish",
+            "Geronimo",
+            "JBoss",
+            "Tomcat",
+            "Jetty"
+        ]
+    }
+}
